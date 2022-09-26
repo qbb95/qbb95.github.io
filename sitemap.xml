@@ -5,7 +5,7 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>/archives/%E8%B5%9E%E5%8A%A9%E6%96%B9%E5%BC%8F/</loc>
+    <loc>/archives/pay/</loc>
     <lastmod>2022-09-26</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
