@@ -5,20 +5,6 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>/archives/play230131/</loc>
-    <lastmod>2023-01-31</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
-
-<url>
-    <loc>/archives/play230129/</loc>
-    <lastmod>2023-01-29</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
-
-<url>
     <loc>/archives/play221031/</loc>
     <lastmod>2022-10-31</lastmod>
     <changefreq>always</changefreq>
@@ -63,6 +49,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
     <loc>/archives/play220930/</loc>
     <lastmod>2022-09-30</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/pay/</loc>
+    <lastmod>2022-09-26</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
